@@ -1,3 +1,5 @@
+// Testbench for Sequence Detector
+
 module test;
   reg clk,x,rst;
   wire z;
