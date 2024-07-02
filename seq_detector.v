@@ -1,3 +1,5 @@
+// Design of sequence detector
+
 module seq_detector(x,clk,rst,z);
   input x,clk,rst;
   output reg z;
